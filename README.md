@@ -10,7 +10,7 @@
 
 ## 💻 What do I do?
 
-I explain the gap between (wo)man and machine. Or, more simply, I write documentation.
+I explain the gap between (wo)man and machine. Or, more simply, I write docs.
 
 ## 🗻 The current hill I am willing to die on
 
